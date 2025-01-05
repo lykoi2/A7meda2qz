@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Malware Detection**
+- 🔭 I’m currently working on **Computer vision**
 
-- 🌱 I’m currently learning **Artificial Neural Networks, Applied Mathematics**
+- 🌱 I’m currently learning **Artificial Neural Networks, ElecEng**
 
 - 💬 Ask me about **Ui,Ux design**
 
-- 📫 How to reach me **amokhlis@gmail.com**
+- 📫 How to reach me **amokhlis30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
