@@ -1,3 +1,6 @@
+<p align="CENTER">
+  <img src="https://i.pinimg.com/originals/c8/43/17/c843170c2cca0f28099b1e8b7c78a52b.gif" width="250" alt="GIF" />
+</p>
 <h1 align="center">Hi 👋, I'm Ahmed Mokhlis</h1>
 <h3 align="center">A Machine Learning Practitioner</h3>
 
