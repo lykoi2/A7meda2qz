@@ -30,5 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&locale=en" alt="a" /></p>
 
 <p align="left">
-  <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="200" alt="GIF" />
+  <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50" alt="GIF" />
 </p>
