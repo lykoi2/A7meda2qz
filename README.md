@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="left">
+  <img src="https://media1.tenor.com/m/_U1cfHPpsr4AAAAC/nichijou-rain.gif" width="250" alt="GIF" />
+</p>
 - 🔭 I’m currently working on **Computer vision**
 
 - 🌱 I’m currently learning **Artificial Neural Networks, ElecEng**
@@ -12,9 +15,6 @@
 - 💬 Ask me about **Ui,Ux design**
 
 - 📫 How to reach me **amokhlis30@gmail.com**
-<p align="right">
-  <img src="https://media1.tenor.com/m/_U1cfHPpsr4AAAAC/nichijou-rain.gif" width="250" alt="GIF" />
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
