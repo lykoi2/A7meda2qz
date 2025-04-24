@@ -29,4 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&locale=en" alt="a" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a&" alt="a" /></p>
+<p align="CENTER">
+  <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="600" alt="GIF" />
+</p>
