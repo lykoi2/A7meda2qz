@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="cute-anime-dancing.gif" alt="GIF" />
+</p>
 <h1 align="center">Hi 👋, I'm Ahmed Mokhlis</h1>
 <h3 align="center">A Machine Learning Practitioner</h3>
 
