@@ -8,6 +8,7 @@
 <p align="left">
   <img src="https://media1.tenor.com/m/_U1cfHPpsr4AAAAC/nichijou-rain.gif" width="250" alt="GIF" />
 </p>
+
 - 🔭 I’m currently working on **Computer vision**
 
 - 🌱 I’m currently learning **Artificial Neural Networks, ElecEng**
