@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="https://media1.tenor.com/m/_U1cfHPpsr4AAAAC/nichijou-rain.gif" width="250" alt="GIF" />
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Mokhlis</h1>
@@ -15,6 +15,9 @@
 - 💬 Ask me about **Ui,Ux design**
 
 - 📫 How to reach me **amokhlis30@gmail.com**
+<p align="right">
+  <img src="https://media1.tenor.com/m/_U1cfHPpsr4AAAAC/nichijou-rain.gif" width="250" alt="GIF" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
