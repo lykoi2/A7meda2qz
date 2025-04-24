@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/mKTS5nbF1zcAAAAd/cute-anime-dancing.gif" width="250" alt="GIF" />
+  <img src="https://media1.tenor.com/m/_U1cfHPpsr4AAAAC/nichijou-rain.gif" width="250" alt="GIF" />
 </p>
 <h1 align="center">Hi 👋, I'm Ahmed Mokhlis</h1>
 <h3 align="center">A Machine Learning Practitioner</h3>
