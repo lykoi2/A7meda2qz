@@ -13,11 +13,8 @@
 </p>
 
 - 🔭 I’m currently working on **Computer vision**
-
 - 🌱 I’m currently learning **Artificial Neural Networks, ElecEng**
-
-- 💬 Ask me about **Ui,Ux design**
-
+- 💬 Ask me about **UI/UX design**
 - 📫 How to reach me **amokhlis30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +23,20 @@
 <a href="https://instagram.com/a2qz.v2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a2qz.v2" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">About Me</h3>
+
+📚 Bachelor's student passionate about self-learning:  
+◽ Data Science & Applied Mathematics  
+◽ UI/UX Research  
+
+🎨 Creative Interests:  
+◽ Digital Art  
+◽ Japanese & Russian Languages  
+
+📝 Explore my technical articles:  
+<a href="[YOUR_MEDIUM_LINK_HERE]">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a&show_icons=true&locale=en" alt="a" /></p>
 
